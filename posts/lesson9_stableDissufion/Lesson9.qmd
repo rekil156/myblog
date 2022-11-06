@@ -19,7 +19,7 @@ Let's imagine that we are trying to get something to generate handwritten digits
 We're going to start by assuming there's some function or API(black box for now,f- magic function), that takes in a handwritten digit and spits out the probability of it being a handwritten digit. 
 For example  we pass in an image X1 and it spits back p(X1) = 0.98 ie probability that X1 is a handwritten digit, X1 corresponds to the digit 3 in the figure below 
 
-<img src='fa_images/func.png' width="800"/>
+<img src='func.png' width="800"/>
 
 Why is this magic function interesting ? 
 We can use this magic function to actually generate handwritten digits. 
